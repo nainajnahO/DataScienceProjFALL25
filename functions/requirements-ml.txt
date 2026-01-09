@@ -1,0 +1,16 @@
+# ML and analysis requirements (for local development or specific ML functions)
+# These are NOT installed in CI/CD by default
+
+tensorflow==2.15.0
+scikit-learn==1.7.0
+scipy==1.14.1
+xgboost==2.0.3
+opencv-python==4.8.0.76
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.17.0
+mplsoccer==1.4.0
+wandb==0.16.0
+reportlab==4.1.0
+pillow==10.2.0
+

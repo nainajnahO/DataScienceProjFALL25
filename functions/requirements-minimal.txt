@@ -1,0 +1,9 @@
+# Minimal dependencies for fetch_AWS_to_firestore function
+firebase-admin==6.5.0
+firebase-functions==0.4.2
+boto3==1.36.18
+pandas==2.2.1
+python-dateutil==2.9.0.post0
+requests==2.31.0
+numpy==1.26.4
+

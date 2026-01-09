@@ -1,0 +1,11 @@
+output/features/*
+!output/features/.gitkeep
+
+output/metrics/*
+!output/metrics/.gitkeep
+
+output/models/*
+!output/models/.gitkeep
+
+output/snapshots/*
+!output/snapshots/.gitkeep

@@ -1,0 +1,8 @@
+moaaz_trend/artifact/*
+!moaaz_trend/artifact/.gitkeep
+
+App/node_modules/
+
+# Trained model artifacts
+artifacts/*
+!artifacts/.gitkeep
